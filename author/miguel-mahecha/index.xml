@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miguel Mahecha | Guido Kraemer</title>
+    <link>https://gdkrmr.github.io/author/miguel-mahecha/</link>
+      <atom:link href="https://gdkrmr.github.io/author/miguel-mahecha/index.xml" rel="self" type="application/rss+xml" />
+    <description>Miguel Mahecha</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gdkrmr.github.io/images/icon_huae7beaf20bd2610b502c5736adc2a695_122292_512x512_fill_lanczos_center_2.png</url>
+      <title>Miguel Mahecha</title>
+      <link>https://gdkrmr.github.io/author/miguel-mahecha/</link>
+    </image>
+    
+    <item>
+      <title>Monitoring Ecological Change during Rapid Socio-Economic and Political Transitions: Colombian Ecosystems in the Post-Conflict Era</title>
+      <link>https://gdkrmr.github.io/publication/sierra-monitoring-2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/publication/sierra-monitoring-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
