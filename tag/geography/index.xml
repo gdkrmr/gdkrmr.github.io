@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geography | Guido Kraemer</title>
+    <link>https://gdkrmr.github.io/tag/geography/</link>
+      <atom:link href="https://gdkrmr.github.io/tag/geography/index.xml" rel="self" type="application/rss+xml" />
+    <description>Geography</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Guido Kraemer</copyright><lastBuildDate>Thu, 09 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gdkrmr.github.io/images/icon_huae7beaf20bd2610b502c5736adc2a695_122292_512x512_fill_lanczos_center_2.png</url>
+      <title>Geography</title>
+      <link>https://gdkrmr.github.io/tag/geography/</link>
+    </image>
+    
+    <item>
+      <title>Geodata Analysis in Human Geography</title>
+      <link>https://gdkrmr.github.io/teaching/geodata_analysis_2020/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/teaching/geodata_analysis_2020/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Introduction to R&lt;/li&gt;
+&lt;li&gt;Principles of data visualization&lt;/li&gt;
+&lt;li&gt;Intro to R basic plotting&lt;/li&gt;
+&lt;li&gt;Intro to &lt;code&gt;ggplot&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Global socieconomic data – from tables to maps.&lt;/li&gt;
+&lt;li&gt;Global trends in socioeconomic variables (WDI, HDI)&lt;/li&gt;
+&lt;li&gt;Networks and Graphs&lt;/li&gt;
+&lt;li&gt;Vector data&lt;/li&gt;
+&lt;li&gt;Raster data
+&lt;ul&gt;
+&lt;li&gt;Spatial autocorrelation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Spatiotemporal data cubes
+&lt;ul&gt;
+&lt;li&gt;Timeseries&lt;/li&gt;
+&lt;li&gt;Spatiotemporal dynamics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

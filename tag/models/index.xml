@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Models | Guido Kraemer</title>
+    <link>https://gdkrmr.github.io/tag/models/</link>
+      <atom:link href="https://gdkrmr.github.io/tag/models/index.xml" rel="self" type="application/rss+xml" />
+    <description>Models</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Guido Kraemer</copyright><lastBuildDate>Sat, 19 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gdkrmr.github.io/images/icon_huae7beaf20bd2610b502c5736adc2a695_122292_512x512_fill_lanczos_center_2.png</url>
+      <title>Models</title>
+      <link>https://gdkrmr.github.io/tag/models/</link>
+    </image>
+    
+    <item>
+      <title>Exploring the Earth system with data and models</title>
+      <link>https://gdkrmr.github.io/teaching/naka_2016/</link>
+      <pubDate>Sat, 19 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/teaching/naka_2016/</guid>
+      <description>&lt;p&gt;Exploring the Earth system with data and models, Summer Akademy NAka, Papenburg. &lt;a href=&#34;https://jgw-ev.de/nachhaltigkeitsakademie/naka-2017/kurs-1-daten-modelle/&#34;&gt;https://jgw-ev.de/nachhaltigkeitsakademie/naka-2017/kurs-1-daten-modelle/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

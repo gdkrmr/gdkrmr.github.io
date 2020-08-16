@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Max Planck Institute for Biogeochemistry | Guido Kraemer</title>
+    <link>https://gdkrmr.github.io/tag/max-planck-institute-for-biogeochemistry/</link>
+      <atom:link href="https://gdkrmr.github.io/tag/max-planck-institute-for-biogeochemistry/index.xml" rel="self" type="application/rss+xml" />
+    <description>Max Planck Institute for Biogeochemistry</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Guido Kraemer</copyright><lastBuildDate>Mon, 22 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gdkrmr.github.io/images/icon_huae7beaf20bd2610b502c5736adc2a695_122292_512x512_fill_lanczos_center_2.png</url>
+      <title>Max Planck Institute for Biogeochemistry</title>
+      <link>https://gdkrmr.github.io/tag/max-planck-institute-for-biogeochemistry/</link>
+    </image>
+    
+    <item>
+      <title>Applied statistics &amp; data analysis</title>
+      <link>https://gdkrmr.github.io/teaching/applied_statistics_2018/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/teaching/applied_statistics_2018/</guid>
+      <description>&lt;p&gt;Concepts of (linear/nonlinear) multivariate data explorations&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Multivariate visualizations&lt;/li&gt;
+&lt;li&gt;Dimensionality reduction&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R course – The Basics</title>
+      <link>https://gdkrmr.github.io/teaching/r_basic_2017/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/teaching/r_basic_2017/</guid>
+      <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Rstudio and R as a calculator&lt;/li&gt;
+&lt;li&gt;Data types&lt;/li&gt;
+&lt;li&gt;Data structures&lt;/li&gt;
+&lt;li&gt;Reading and writing files&lt;/li&gt;
+&lt;li&gt;Navigating the R universe&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;programming&#34;&gt;Programming&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Control flow:&lt;/li&gt;
+&lt;li&gt;Functions&lt;/li&gt;
+&lt;li&gt;Processing of character strings&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;graphics&#34;&gt;Graphics&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;High and low level graphics functions&lt;/li&gt;
+&lt;li&gt;From data sets to plots&lt;/li&gt;
+&lt;li&gt;Other graphics packages&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;data-analysis&#34;&gt;Data Analysis&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Simple statistics&lt;/li&gt;
+&lt;li&gt;Data processing&lt;/li&gt;
+&lt;li&gt;Outlook&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;free-practice&#34;&gt;Free Practice&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Find your own mini-project&lt;/li&gt;
+&lt;li&gt;Repeat stuff from the course&lt;/li&gt;
+&lt;li&gt;Ask for help with own data analysis&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R course – The Basics</title>
+      <link>https://gdkrmr.github.io/teaching/r_basic_2016/</link>
+      <pubDate>Fri, 18 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/teaching/r_basic_2016/</guid>
+      <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Rstudio and R as a calculator&lt;/li&gt;
+&lt;li&gt;Data types&lt;/li&gt;
+&lt;li&gt;Data structures&lt;/li&gt;
+&lt;li&gt;Reading and writing files&lt;/li&gt;
+&lt;li&gt;Navigating the R universe&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;programming&#34;&gt;Programming&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Control flow:&lt;/li&gt;
+&lt;li&gt;Functions&lt;/li&gt;
+&lt;li&gt;Processing of character strings&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;graphics&#34;&gt;Graphics&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;High and low level graphics functions&lt;/li&gt;
+&lt;li&gt;From data sets to plots&lt;/li&gt;
+&lt;li&gt;Other graphics packages&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;data-analysis&#34;&gt;Data Analysis&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Simple statistics&lt;/li&gt;
+&lt;li&gt;Data processing&lt;/li&gt;
+&lt;li&gt;Outlook:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;free-practice&#34;&gt;Free Practice&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Find your own mini-project&lt;/li&gt;
+&lt;li&gt;Repeat stuff from the course&lt;/li&gt;
+&lt;li&gt;Ask for help with own data analysis&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
