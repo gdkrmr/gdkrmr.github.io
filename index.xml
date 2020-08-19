@@ -5,12 +5,33 @@
     <link>https://gdkrmr.github.io/</link>
       <atom:link href="https://gdkrmr.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Guido Kraemer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Guido Kraemer</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Guido Kraemer</copyright><lastBuildDate>Wed, 19 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gdkrmr.github.io/images/icon_huae7beaf20bd2610b502c5736adc2a695_122292_512x512_fill_lanczos_center_2.png</url>
       <title>Guido Kraemer</title>
       <link>https://gdkrmr.github.io/</link>
     </image>
+    
+    <item>
+      <title>DimRed</title>
+      <link>https://gdkrmr.github.io/software/dimred/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/software/dimred/</guid>
+      <description>&lt;p&gt;A collection of dimensionality reduction methods in R and a common interface.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/gdkrmr/dimRed&#34;&gt;https://github.com/gdkrmr/dimRed&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>coRanking</title>
+      <link>https://gdkrmr.github.io/software/coranking/</link>
+      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/software/coranking/</guid>
+      <description>&lt;p&gt;Calculates the co-ranking matrix to assess the quality of a dimensionality
+reduction in R.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/gdkrmr/coRanking&#34;&gt;https://github.com/gdkrmr/coRanking&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Summarizing the State of the Terrestrial Biosphere in Few Dimensions</title>
@@ -128,6 +149,47 @@
     </item>
     
     <item>
+      <title>Base58.jl</title>
+      <link>https://gdkrmr.github.io/software/base58/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/software/base58/</guid>
+      <description>&lt;p&gt;Pure Julia implementation of Base58 encoding.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/gdkrmr/Base58.jl&#34;&gt;https://github.com/gdkrmr/Base58.jl&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BTCParser.jl</title>
+      <link>https://gdkrmr.github.io/software/btcparser/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/software/btcparser/</guid>
+      <description>&lt;p&gt;A pure Julia implementation of a Bitcoin blockchain parser.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/gdkrmr/BTCParser.jl&#34;&gt;https://github.com/gdkrmr/BTCParser.jl&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DRR</title>
+      <link>https://gdkrmr.github.io/software/drr/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/software/drr/</guid>
+      <description>&lt;p&gt;An Implementation of Dimensionality Reduction via Regression using Kernel Ridge
+Regression in R.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/gdkrmr/DRR&#34;&gt;https://github.com/gdkrmr/DRR&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LevelDB.jl</title>
+      <link>https://gdkrmr.github.io/software/leveldb/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/software/leveldb/</guid>
+      <description>&lt;p&gt;A LevelDB wrapper for Julia&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/gdkrmr/LevelDB.jl&#34;&gt;https://github.com/gdkrmr/LevelDB.jl&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>R course – The Basics</title>
       <link>https://gdkrmr.github.io/teaching/r_basic_2017/</link>
       <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
@@ -164,6 +226,28 @@
 &lt;li&gt;Repeat stuff from the course&lt;/li&gt;
 &lt;li&gt;Ask for help with own data analysis&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ripemd.jl</title>
+      <link>https://gdkrmr.github.io/software/ripemd/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/software/ripemd/</guid>
+      <description>&lt;p&gt;Pure Julia implementation of the Ripemd hashing algorithm.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/gdkrmr/Ripemd.jl&#34;&gt;https://github.com/gdkrmr/Ripemd.jl&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WeightedOnlineStats.jl</title>
+      <link>https://gdkrmr.github.io/software/weightedonlinestats/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/software/weightedonlinestats/</guid>
+      <description>&lt;p&gt;Statistics for big data with $\mathcal{O}(1)$ memory in pure Julia. An extension
+of OnlineStatsBase.jl that supports proper statistical weighting and arbitrary
+numerical precision.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/gdkrmr/WeightedOnlineStats.jl&#34;&gt;https://github.com/gdkrmr/WeightedOnlineStats.jl&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

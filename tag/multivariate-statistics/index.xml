@@ -41,5 +41,17 @@
 </description>
     </item>
     
+    <item>
+      <title>WeightedOnlineStats.jl</title>
+      <link>https://gdkrmr.github.io/software/weightedonlinestats/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/software/weightedonlinestats/</guid>
+      <description>&lt;p&gt;Statistics for big data with $\mathcal{O}(1)$ memory in pure Julia. An extension
+of OnlineStatsBase.jl that supports proper statistical weighting and arbitrary
+numerical precision.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/gdkrmr/WeightedOnlineStats.jl&#34;&gt;https://github.com/gdkrmr/WeightedOnlineStats.jl&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

@@ -3,6 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gdkrmr.github.io/tag/dimensionality-reduction/</loc>
+    <lastmod>2020-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gdkrmr.github.io/software/dimred/</loc>
+    <lastmod>2020-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gdkrmr.github.io/</loc>
+    <lastmod>2020-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gdkrmr.github.io/tag/r/</loc>
+    <lastmod>2020-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gdkrmr.github.io/software/</loc>
+    <lastmod>2020-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gdkrmr.github.io/tags/</loc>
+    <lastmod>2020-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gdkrmr.github.io/tag/co-ranking-matrix/</loc>
+    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gdkrmr.github.io/software/coranking/</loc>
+    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gdkrmr.github.io/publication-type/2/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
@@ -14,11 +54,6 @@
   
   <url>
     <loc>https://gdkrmr.github.io/author/guido-kraemer/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gdkrmr.github.io/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,11 +123,6 @@
   </url>
   
   <url>
-    <loc>https://gdkrmr.github.io/tags/</loc>
-    <lastmod>2020-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://gdkrmr.github.io/tag/uni-leipzig/</loc>
     <lastmod>2020-04-09T00:00:00+00:00</lastmod>
   </url>
@@ -104,11 +134,6 @@
   
   <url>
     <loc>https://gdkrmr.github.io/teaching/big_data_2020/</loc>
-    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gdkrmr.github.io/tag/dimensionality-reduction/</loc>
     <lastmod>2020-03-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -333,11 +358,6 @@
   </url>
   
   <url>
-    <loc>https://gdkrmr.github.io/author/miguel-mahecha/</loc>
-    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://gdkrmr.github.io/publication/sierra-monitoring-2017/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
   </url>
@@ -388,12 +408,92 @@
   </url>
   
   <url>
+    <loc>https://gdkrmr.github.io/tag/base58/</loc>
+    <lastmod>2017-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gdkrmr.github.io/software/base58/</loc>
+    <lastmod>2017-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gdkrmr.github.io/tag/bitcoin/</loc>
+    <lastmod>2017-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gdkrmr.github.io/tag/blockchain/</loc>
+    <lastmod>2017-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gdkrmr.github.io/software/btcparser/</loc>
+    <lastmod>2017-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gdkrmr.github.io/tag/dimensionality-reduction-via-regression/</loc>
+    <lastmod>2017-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gdkrmr.github.io/software/drr/</loc>
+    <lastmod>2017-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gdkrmr.github.io/tag/encoding/</loc>
+    <lastmod>2017-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gdkrmr.github.io/tag/hashing/</loc>
+    <lastmod>2017-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gdkrmr.github.io/tag/julia/</loc>
+    <lastmod>2017-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gdkrmr.github.io/tag/leveldb/</loc>
+    <lastmod>2017-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gdkrmr.github.io/software/leveldb/</loc>
+    <lastmod>2017-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gdkrmr.github.io/tag/r-beginner/</loc>
     <lastmod>2017-04-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://gdkrmr.github.io/teaching/r_basic_2017/</loc>
+    <lastmod>2017-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gdkrmr.github.io/tag/ripemd/</loc>
+    <lastmod>2017-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gdkrmr.github.io/software/ripemd/</loc>
+    <lastmod>2017-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gdkrmr.github.io/tag/statistics/</loc>
+    <lastmod>2017-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gdkrmr.github.io/software/weightedonlinestats/</loc>
     <lastmod>2017-04-03T00:00:00+00:00</lastmod>
   </url>
   
