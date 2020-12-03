@@ -3,6 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gdkrmr.github.io/teaching/</loc>
+    <lastmod>2020-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gdkrmr.github.io/tag/data-analysis/</loc>
+    <lastmod>2020-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gdkrmr.github.io/tag/data-visualization/</loc>
+    <lastmod>2020-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gdkrmr.github.io/teaching/r_basic_2020/</loc>
+    <lastmod>2020-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gdkrmr.github.io/tag/geography/</loc>
+    <lastmod>2020-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gdkrmr.github.io/</loc>
+    <lastmod>2020-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gdkrmr.github.io/tag/multivariate-statistics/</loc>
+    <lastmod>2020-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gdkrmr.github.io/teaching/multivariate_statistics_2020/</loc>
+    <lastmod>2020-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gdkrmr.github.io/tags/</loc>
+    <lastmod>2020-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gdkrmr.github.io/tag/uni-leipzig/</loc>
+    <lastmod>2020-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gdkrmr.github.io/tag/dimensionality-reduction/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
   </url>
@@ -13,22 +63,12 @@
   </url>
   
   <url>
-    <loc>https://gdkrmr.github.io/</loc>
-    <lastmod>2020-08-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://gdkrmr.github.io/tag/r/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://gdkrmr.github.io/software/</loc>
-    <lastmod>2020-08-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gdkrmr.github.io/tags/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -98,32 +138,7 @@
   </url>
   
   <url>
-    <loc>https://gdkrmr.github.io/teaching/</loc>
-    <lastmod>2020-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gdkrmr.github.io/tag/data-analysis/</loc>
-    <lastmod>2020-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gdkrmr.github.io/tag/data-visualization/</loc>
-    <lastmod>2020-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://gdkrmr.github.io/teaching/geodata_analysis_2020/</loc>
-    <lastmod>2020-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gdkrmr.github.io/tag/geography/</loc>
-    <lastmod>2020-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gdkrmr.github.io/tag/uni-leipzig/</loc>
     <lastmod>2020-04-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -134,11 +149,6 @@
   
   <url>
     <loc>https://gdkrmr.github.io/teaching/big_data_2020/</loc>
-    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gdkrmr.github.io/tag/multivariate-statistics/</loc>
     <lastmod>2020-03-18T00:00:00+00:00</lastmod>
   </url>
   
