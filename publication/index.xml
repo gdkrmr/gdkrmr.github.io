@@ -5,12 +5,52 @@
     <link>https://gdkrmr.github.io/publication/</link>
       <atom:link href="https://gdkrmr.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Guido Kraemer</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Guido Kraemer</copyright><lastBuildDate>Tue, 03 Aug 2021 11:19:51 +0000</lastBuildDate>
     <image>
       <url>https://gdkrmr.github.io/images/icon_huae7beaf20bd2610b502c5736adc2a695_122292_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://gdkrmr.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Low-Dimensional Representations of Earth System Processes</title>
+      <link>https://gdkrmr.github.io/publication/kraemer-lowdimensional-2020/</link>
+      <pubDate>Tue, 03 Aug 2021 11:19:51 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/publication/kraemer-lowdimensional-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drivers of Diversity and Functional Characteristics in Broadleaf Forests – the Example of Thuringia</title>
+      <link>https://gdkrmr.github.io/publication/kraemer-drivers-2015/</link>
+      <pubDate>Tue, 03 Aug 2021 11:19:50 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/publication/kraemer-drivers-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crowd-Sourced Plant Occurrence Data Provide a Reliable Description of Macroecological Gradients</title>
+      <link>https://gdkrmr.github.io/publication/mahecha-crowdsourced-2021/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/publication/mahecha-crowdsourced-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional Convergence of Biosphere– Atmosphere Interactions in Response to Meteorological Conditions</title>
+      <link>https://gdkrmr.github.io/publication/krich-functional-2021/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/publication/krich-functional-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovering Differential Equations from Earth Observation Data</title>
+      <link>https://gdkrmr.github.io/publication/adsuara-discovering-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/publication/adsuara-discovering-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Summarizing the State of the Terrestrial Biosphere in Few Dimensions</title>
@@ -25,6 +65,22 @@
       <link>https://gdkrmr.github.io/publication/kraemer-low-2020/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       <guid>https://gdkrmr.github.io/publication/kraemer-low-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capturing the Influence of ENSO on Land Surface Variables for Tropical South America</title>
+      <link>https://gdkrmr.github.io/publication/estupinan-suarez-capturing-2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/publication/estupinan-suarez-capturing-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Ordinary Differential Equations from Remote Sensing Data</title>
+      <link>https://gdkrmr.github.io/publication/adsuara-learning-2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/publication/adsuara-learning-2020/</guid>
       <description></description>
     </item>
     
@@ -65,6 +121,14 @@
       <link>https://gdkrmr.github.io/publication/muhr-carbon-2013/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       <guid>https://gdkrmr.github.io/publication/muhr-carbon-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aplicación de una metodología basada en el análisis compuesto para predecir niveles de crecientes y estiajes en la cuenca del río Mazán, Loreto - Perú.</title>
+      <link>https://gdkrmr.github.io/publication/kraemer-aplicacion-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/publication/kraemer-aplicacion-2013/</guid>
       <description></description>
     </item>
     

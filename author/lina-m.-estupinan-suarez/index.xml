@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lina M. Estupiñan-Suarez | Guido Kraemer</title>
+    <title>Lina M. Estupinan-Suarez | Guido Kraemer</title>
     <link>https://gdkrmr.github.io/author/lina-m.-estupinan-suarez/</link>
       <atom:link href="https://gdkrmr.github.io/author/lina-m.-estupinan-suarez/index.xml" rel="self" type="application/rss+xml" />
-    <description>Lina M. Estupiñan-Suarez</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Guido Kraemer</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <description>Lina M. Estupinan-Suarez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Guido Kraemer</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gdkrmr.github.io/images/icon_huae7beaf20bd2610b502c5736adc2a695_122292_512x512_fill_lanczos_center_2.png</url>
-      <title>Lina M. Estupiñan-Suarez</title>
+      <title>Lina M. Estupinan-Suarez</title>
       <link>https://gdkrmr.github.io/author/lina-m.-estupinan-suarez/</link>
     </image>
+    
+    <item>
+      <title>Capturing the Influence of ENSO on Land Surface Variables for Tropical South America</title>
+      <link>https://gdkrmr.github.io/publication/estupinan-suarez-capturing-2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/publication/estupinan-suarez-capturing-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Earth System Data Cubes Unravel Global Multivariate Dynamics</title>

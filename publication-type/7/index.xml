@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 | Guido Kraemer</title>
+    <link>https://gdkrmr.github.io/publication-type/7/</link>
+      <atom:link href="https://gdkrmr.github.io/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Guido Kraemer</copyright><lastBuildDate>Tue, 03 Aug 2021 11:19:51 +0000</lastBuildDate>
+    <image>
+      <url>https://gdkrmr.github.io/images/icon_huae7beaf20bd2610b502c5736adc2a695_122292_512x512_fill_lanczos_center_2.png</url>
+      <title>7</title>
+      <link>https://gdkrmr.github.io/publication-type/7/</link>
+    </image>
+    
+    <item>
+      <title>Low-Dimensional Representations of Earth System Processes</title>
+      <link>https://gdkrmr.github.io/publication/kraemer-lowdimensional-2020/</link>
+      <pubDate>Tue, 03 Aug 2021 11:19:51 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/publication/kraemer-lowdimensional-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drivers of Diversity and Functional Characteristics in Broadleaf Forests – the Example of Thuringia</title>
+      <link>https://gdkrmr.github.io/publication/kraemer-drivers-2015/</link>
+      <pubDate>Tue, 03 Aug 2021 11:19:50 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/publication/kraemer-drivers-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aplicación de una metodología basada en el análisis compuesto para predecir niveles de crecientes y estiajes en la cuenca del río Mazán, Loreto - Perú.</title>
+      <link>https://gdkrmr.github.io/publication/kraemer-aplicacion-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/publication/kraemer-aplicacion-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
