@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jens Kattge | Guido Kraemer</title>
+    <link>https://gdkrmr.github.io/author/jens-kattge/</link>
+      <atom:link href="https://gdkrmr.github.io/author/jens-kattge/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jens Kattge</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Guido Kraemer</copyright><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gdkrmr.github.io/images/icon_huae7beaf20bd2610b502c5736adc2a695_122292_512x512_fill_lanczos_center_3.png</url>
+      <title>Jens Kattge</title>
+      <link>https://gdkrmr.github.io/author/jens-kattge/</link>
+    </image>
+    
+    <item>
+      <title>The Three Major Axes of Terrestrial Ecosystem Function</title>
+      <link>https://gdkrmr.github.io/publication/migliavacca-three-2021/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/publication/migliavacca-three-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

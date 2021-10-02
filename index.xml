@@ -5,12 +5,20 @@
     <link>https://gdkrmr.github.io/</link>
       <atom:link href="https://gdkrmr.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Guido Kraemer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Guido Kraemer</copyright><lastBuildDate>Tue, 03 Aug 2021 11:19:51 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Guido Kraemer</copyright><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://gdkrmr.github.io/images/icon_huae7beaf20bd2610b502c5736adc2a695_122292_512x512_fill_lanczos_center_2.png</url>
+      <url>https://gdkrmr.github.io/images/icon_huae7beaf20bd2610b502c5736adc2a695_122292_512x512_fill_lanczos_center_3.png</url>
       <title>Guido Kraemer</title>
       <link>https://gdkrmr.github.io/</link>
     </image>
+    
+    <item>
+      <title>The Three Major Axes of Terrestrial Ecosystem Function</title>
+      <link>https://gdkrmr.github.io/publication/migliavacca-three-2021/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/publication/migliavacca-three-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Low-Dimensional Representations of Earth System Processes</title>
@@ -104,7 +112,8 @@ Indikatoren enthalten&lt;/li&gt;
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://gdkrmr.github.io/software/dimred/</guid>
       <description>&lt;p&gt;A collection of dimensionality reduction methods in R and a common interface.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/gdkrmr/dimRed&#34;&gt;https://github.com/gdkrmr/dimRed&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/gdkrmr/dimRed&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gdkrmr/dimRed&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -115,7 +124,8 @@ Indikatoren enthalten&lt;/li&gt;
       <guid>https://gdkrmr.github.io/software/coranking/</guid>
       <description>&lt;p&gt;Calculates the co-ranking matrix to assess the quality of a dimensionality
 reduction in R.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/gdkrmr/coRanking&#34;&gt;https://github.com/gdkrmr/coRanking&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/gdkrmr/coRanking&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gdkrmr/coRanking&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -303,7 +313,8 @@ verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.&lt;/p&gt;
       <link>https://gdkrmr.github.io/teaching/naka_2016/</link>
       <pubDate>Sat, 19 Aug 2017 00:00:00 +0000</pubDate>
       <guid>https://gdkrmr.github.io/teaching/naka_2016/</guid>
-      <description>&lt;p&gt;Exploring the Earth system with data and models, Summer Akademy NAka, Papenburg. &lt;a href=&#34;https://jgw-ev.de/nachhaltigkeitsakademie/naka-2017/kurs-1-daten-modelle/&#34;&gt;https://jgw-ev.de/nachhaltigkeitsakademie/naka-2017/kurs-1-daten-modelle/&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Exploring the Earth system with data and models, Summer Akademy NAka, Papenburg. 
+&lt;a href=&#34;https://jgw-ev.de/nachhaltigkeitsakademie/naka-2017/kurs-1-daten-modelle/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://jgw-ev.de/nachhaltigkeitsakademie/naka-2017/kurs-1-daten-modelle/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -313,7 +324,8 @@ verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.&lt;/p&gt;
       <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
       <guid>https://gdkrmr.github.io/software/base58/</guid>
       <description>&lt;p&gt;Pure Julia implementation of Base58 encoding.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/gdkrmr/Base58.jl&#34;&gt;https://github.com/gdkrmr/Base58.jl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/gdkrmr/Base58.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gdkrmr/Base58.jl&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -323,7 +335,8 @@ verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.&lt;/p&gt;
       <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
       <guid>https://gdkrmr.github.io/software/btcparser/</guid>
       <description>&lt;p&gt;A pure Julia implementation of a Bitcoin blockchain parser.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/gdkrmr/BTCParser.jl&#34;&gt;https://github.com/gdkrmr/BTCParser.jl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/gdkrmr/BTCParser.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gdkrmr/BTCParser.jl&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -334,7 +347,8 @@ verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.&lt;/p&gt;
       <guid>https://gdkrmr.github.io/software/drr/</guid>
       <description>&lt;p&gt;An Implementation of Dimensionality Reduction via Regression using Kernel Ridge
 Regression in R.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/gdkrmr/DRR&#34;&gt;https://github.com/gdkrmr/DRR&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/gdkrmr/DRR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gdkrmr/DRR&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -344,7 +358,8 @@ Regression in R.&lt;/p&gt;
       <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
       <guid>https://gdkrmr.github.io/software/leveldb/</guid>
       <description>&lt;p&gt;A LevelDB wrapper for Julia&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/gdkrmr/LevelDB.jl&#34;&gt;https://github.com/gdkrmr/LevelDB.jl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/gdkrmr/LevelDB.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gdkrmr/LevelDB.jl&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -394,7 +409,8 @@ Regression in R.&lt;/p&gt;
       <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
       <guid>https://gdkrmr.github.io/software/ripemd/</guid>
       <description>&lt;p&gt;Pure Julia implementation of the Ripemd hashing algorithm.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/gdkrmr/Ripemd.jl&#34;&gt;https://github.com/gdkrmr/Ripemd.jl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/gdkrmr/Ripemd.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gdkrmr/Ripemd.jl&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -406,7 +422,8 @@ Regression in R.&lt;/p&gt;
       <description>&lt;p&gt;Statistics for big data with $\mathcal{O}(1)$ memory in pure Julia. An extension
 of OnlineStatsBase.jl that supports proper statistical weighting and arbitrary
 numerical precision.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/gdkrmr/WeightedOnlineStats.jl&#34;&gt;https://github.com/gdkrmr/WeightedOnlineStats.jl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/gdkrmr/WeightedOnlineStats.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gdkrmr/WeightedOnlineStats.jl&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

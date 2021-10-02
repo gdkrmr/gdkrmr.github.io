@@ -7,7 +7,7 @@
     <description>Julia</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Guido Kraemer</copyright><lastBuildDate>Mon, 03 Apr 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://gdkrmr.github.io/images/icon_huae7beaf20bd2610b502c5736adc2a695_122292_512x512_fill_lanczos_center_2.png</url>
+      <url>https://gdkrmr.github.io/images/icon_huae7beaf20bd2610b502c5736adc2a695_122292_512x512_fill_lanczos_center_3.png</url>
       <title>Julia</title>
       <link>https://gdkrmr.github.io/tag/julia/</link>
     </image>
@@ -18,7 +18,8 @@
       <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
       <guid>https://gdkrmr.github.io/software/base58/</guid>
       <description>&lt;p&gt;Pure Julia implementation of Base58 encoding.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/gdkrmr/Base58.jl&#34;&gt;https://github.com/gdkrmr/Base58.jl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/gdkrmr/Base58.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gdkrmr/Base58.jl&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -28,7 +29,8 @@
       <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
       <guid>https://gdkrmr.github.io/software/btcparser/</guid>
       <description>&lt;p&gt;A pure Julia implementation of a Bitcoin blockchain parser.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/gdkrmr/BTCParser.jl&#34;&gt;https://github.com/gdkrmr/BTCParser.jl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/gdkrmr/BTCParser.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gdkrmr/BTCParser.jl&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -38,7 +40,8 @@
       <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
       <guid>https://gdkrmr.github.io/software/leveldb/</guid>
       <description>&lt;p&gt;A LevelDB wrapper for Julia&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/gdkrmr/LevelDB.jl&#34;&gt;https://github.com/gdkrmr/LevelDB.jl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/gdkrmr/LevelDB.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gdkrmr/LevelDB.jl&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -48,7 +51,8 @@
       <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
       <guid>https://gdkrmr.github.io/software/ripemd/</guid>
       <description>&lt;p&gt;Pure Julia implementation of the Ripemd hashing algorithm.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/gdkrmr/Ripemd.jl&#34;&gt;https://github.com/gdkrmr/Ripemd.jl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/gdkrmr/Ripemd.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gdkrmr/Ripemd.jl&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -60,7 +64,8 @@
       <description>&lt;p&gt;Statistics for big data with $\mathcal{O}(1)$ memory in pure Julia. An extension
 of OnlineStatsBase.jl that supports proper statistical weighting and arbitrary
 numerical precision.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/gdkrmr/WeightedOnlineStats.jl&#34;&gt;https://github.com/gdkrmr/WeightedOnlineStats.jl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/gdkrmr/WeightedOnlineStats.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gdkrmr/WeightedOnlineStats.jl&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

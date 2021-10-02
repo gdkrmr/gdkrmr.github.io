@@ -7,7 +7,7 @@
     <description>Dimensionality Reduction</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Guido Kraemer</copyright><lastBuildDate>Wed, 19 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://gdkrmr.github.io/images/icon_huae7beaf20bd2610b502c5736adc2a695_122292_512x512_fill_lanczos_center_2.png</url>
+      <url>https://gdkrmr.github.io/images/icon_huae7beaf20bd2610b502c5736adc2a695_122292_512x512_fill_lanczos_center_3.png</url>
       <title>Dimensionality Reduction</title>
       <link>https://gdkrmr.github.io/tag/dimensionality-reduction/</link>
     </image>
@@ -18,7 +18,8 @@
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://gdkrmr.github.io/software/dimred/</guid>
       <description>&lt;p&gt;A collection of dimensionality reduction methods in R and a common interface.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/gdkrmr/dimRed&#34;&gt;https://github.com/gdkrmr/dimRed&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/gdkrmr/dimRed&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gdkrmr/dimRed&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -29,7 +30,8 @@
       <guid>https://gdkrmr.github.io/software/coranking/</guid>
       <description>&lt;p&gt;Calculates the co-ranking matrix to assess the quality of a dimensionality
 reduction in R.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/gdkrmr/coRanking&#34;&gt;https://github.com/gdkrmr/coRanking&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/gdkrmr/coRanking&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gdkrmr/coRanking&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -69,7 +71,8 @@ reduction in R.&lt;/p&gt;
       <guid>https://gdkrmr.github.io/software/drr/</guid>
       <description>&lt;p&gt;An Implementation of Dimensionality Reduction via Regression using Kernel Ridge
 Regression in R.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/gdkrmr/DRR&#34;&gt;https://github.com/gdkrmr/DRR&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/gdkrmr/DRR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gdkrmr/DRR&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

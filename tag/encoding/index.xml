@@ -7,7 +7,7 @@
     <description>Encoding</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Guido Kraemer</copyright><lastBuildDate>Mon, 03 Apr 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://gdkrmr.github.io/images/icon_huae7beaf20bd2610b502c5736adc2a695_122292_512x512_fill_lanczos_center_2.png</url>
+      <url>https://gdkrmr.github.io/images/icon_huae7beaf20bd2610b502c5736adc2a695_122292_512x512_fill_lanczos_center_3.png</url>
       <title>Encoding</title>
       <link>https://gdkrmr.github.io/tag/encoding/</link>
     </image>
@@ -18,7 +18,8 @@
       <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
       <guid>https://gdkrmr.github.io/software/base58/</guid>
       <description>&lt;p&gt;Pure Julia implementation of Base58 encoding.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/gdkrmr/Base58.jl&#34;&gt;https://github.com/gdkrmr/Base58.jl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/gdkrmr/Base58.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gdkrmr/Base58.jl&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
