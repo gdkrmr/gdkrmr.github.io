@@ -18,8 +18,30 @@
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://gdkrmr.github.io/software/dimred/</guid>
       <description>&lt;p&gt;A collection of dimensionality reduction methods in R and a common interface.&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://github.com/gdkrmr/dimRed&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gdkrmr/dimRed&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Documentation: 
+&lt;a href=&#34;https://doi.org/10.32614/RJ-2018-039&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.32614/RJ-2018-039&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Github: 
+&lt;a href=&#34;https://github.com/gdkrmr/dimRed&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gdkrmr/dimRed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Issues: 
+&lt;a href=&#34;https://github.com/gdkrmr/dimRed/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gdkrmr/dimRed/issues&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;CRAN: 
+&lt;a href=&#34;https://cran.r-project.org/package=dimRed&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://cran.r-project.org/package=dimRed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Citation:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;@article{kraemer_dimred_2018,
+ author = {Kraemer, Guido and Reichstein, Markus and Mahecha, Miguel D.},
+ issn = {2073-4859},
+ journal = {The R Journal},
+ language = {en},
+ number = {1},
+ pages = {342--358},
+ title = {dimRed and coRanking - Unifying Dimensionality Reduction in R},
+ url = {https://doi.org/10.32614/RJ-2018-039},
+ volume = {10},
+ year = {2018},
+}
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
