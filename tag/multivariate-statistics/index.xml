@@ -5,12 +5,34 @@
     <link>https://gdkrmr.github.io/tag/multivariate-statistics/</link>
       <atom:link href="https://gdkrmr.github.io/tag/multivariate-statistics/index.xml" rel="self" type="application/rss+xml" />
     <description>Multivariate Statistics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Guido Kraemer</copyright><lastBuildDate>Mon, 26 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Guido Kraemer</copyright><lastBuildDate>Tue, 26 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gdkrmr.github.io/images/icon_huae7beaf20bd2610b502c5736adc2a695_122292_512x512_fill_lanczos_center_3.png</url>
       <title>Multivariate Statistics</title>
       <link>https://gdkrmr.github.io/tag/multivariate-statistics/</link>
     </image>
+    
+    <item>
+      <title>Seminar Multivariate Statistik</title>
+      <link>https://gdkrmr.github.io/teaching/multivariate_statistics_2021/</link>
+      <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/teaching/multivariate_statistics_2021/</guid>
+      <description>&lt;p&gt;In der Geographie liefert die Multivariate Statistik wichtige Methoden zur
+Auswertung von Daten. Es müssen immer komplexere Datensätze mit immer mehr
+Variablen ausgewertet werden, hierfür bietet die Multivariate Statistik
+verschiedene Ansätze.&lt;/p&gt;
+&lt;p&gt;In diesem Seminar werden die Studierenden verschiedene Methoden der
+Multivariaten Statistik kennenlernen. Dazu erarbeiten sie praktische Beispiele
+mit der Programmiersprache R und den World Development Indicators.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;R ist eines der Standardwerkzeuge für die Auswertung von Daten und bietet eine
+Vielzahl von bereits implementierten Methoden.&lt;/li&gt;
+&lt;li&gt;Die World Development Indicators sind eine umfangreichen globalen Datenbank,
+kuriert von der Weltbank, welche eine Vielzahl an sozioökonomischen
+Indikatoren enthalten&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Seminar Multivariate Statistik</title>

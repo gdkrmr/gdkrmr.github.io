@@ -2,6 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://gdkrmr.github.io/teaching/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/tag/data-analysis/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/tag/data-visualization/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/teaching/r_basic_2021/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/tag/geography/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/tag/multivariate-statistics/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/teaching/multivariate_statistics_2021/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/tags/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/tag/uni-leipzig/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://gdkrmr.github.io/publication-type/2/</loc>
     <lastmod>2021-10-02T19:10:36+02:00</lastmod>
   </url><url>
@@ -75,9 +105,6 @@
     <lastmod>2021-10-02T19:10:36+02:00</lastmod>
   </url><url>
     <loc>https://gdkrmr.github.io/author/guido-kraemer/</loc>
-    <lastmod>2021-10-02T19:10:36+02:00</lastmod>
-  </url><url>
-    <loc>https://gdkrmr.github.io/</loc>
     <lastmod>2021-10-02T19:10:36+02:00</lastmod>
   </url><url>
     <loc>https://gdkrmr.github.io/author/hideki-kobayashi/</loc>
@@ -221,15 +248,6 @@
     <loc>https://gdkrmr.github.io/author/xuanlong-ma/</loc>
     <lastmod>2021-10-02T19:10:36+02:00</lastmod>
   </url><url>
-    <loc>https://gdkrmr.github.io/publication-type/7/</loc>
-    <lastmod>2021-08-03T13:19:51+02:00</lastmod>
-  </url><url>
-    <loc>https://gdkrmr.github.io/publication/kraemer-lowdimensional-2020/</loc>
-    <lastmod>2021-08-03T13:19:51+02:00</lastmod>
-  </url><url>
-    <loc>https://gdkrmr.github.io/publication/kraemer-drivers-2015/</loc>
-    <lastmod>2021-08-03T13:19:50+02:00</lastmod>
-  </url><url>
     <loc>https://gdkrmr.github.io/tag/automated-species-identification/</loc>
     <lastmod>2021-08-03T13:19:51+02:00</lastmod>
   </url><url>
@@ -263,9 +281,6 @@
     <loc>https://gdkrmr.github.io/author/patrick-mader/</loc>
     <lastmod>2021-08-03T13:19:51+02:00</lastmod>
   </url><url>
-    <loc>https://gdkrmr.github.io/tags/</loc>
-    <lastmod>2021-08-03T13:19:51+02:00</lastmod>
-  </url><url>
     <loc>https://gdkrmr.github.io/author/christopher-krich/</loc>
     <lastmod>2021-08-03T13:19:51+02:00</lastmod>
   </url><url>
@@ -278,28 +293,16 @@
     <loc>https://gdkrmr.github.io/author/jakob-runge/</loc>
     <lastmod>2021-08-03T13:19:51+02:00</lastmod>
   </url><url>
-    <loc>https://gdkrmr.github.io/teaching/</loc>
-    <lastmod>2020-10-26T00:00:00+00:00</lastmod>
+    <loc>https://gdkrmr.github.io/publication-type/7/</loc>
+    <lastmod>2021-08-03T13:19:51+02:00</lastmod>
   </url><url>
-    <loc>https://gdkrmr.github.io/tag/data-analysis/</loc>
-    <lastmod>2020-10-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gdkrmr.github.io/tag/data-visualization/</loc>
-    <lastmod>2020-10-26T00:00:00+00:00</lastmod>
+    <loc>https://gdkrmr.github.io/publication/kraemer-lowdimensional-2020/</loc>
+    <lastmod>2021-08-03T13:19:51+02:00</lastmod>
   </url><url>
     <loc>https://gdkrmr.github.io/teaching/r_basic_2020/</loc>
     <lastmod>2020-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gdkrmr.github.io/tag/geography/</loc>
-    <lastmod>2020-10-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gdkrmr.github.io/tag/multivariate-statistics/</loc>
-    <lastmod>2020-10-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://gdkrmr.github.io/teaching/multivariate_statistics_2020/</loc>
-    <lastmod>2020-10-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gdkrmr.github.io/tag/uni-leipzig/</loc>
     <lastmod>2020-10-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gdkrmr.github.io/tag/biological-system-modeling/</loc>
@@ -700,6 +703,9 @@
   </url><url>
     <loc>https://gdkrmr.github.io/publication/angert-contribution-2012/</loc>
     <lastmod>2012-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/publication/kraemer-drivers-2015/</loc>
+    <lastmod>2021-08-03T13:19:50+02:00</lastmod>
   </url><url>
     <loc>https://gdkrmr.github.io/categories/</loc>
   </url><url>

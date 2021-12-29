@@ -5,12 +5,58 @@
     <link>https://gdkrmr.github.io/tag/geography/</link>
       <atom:link href="https://gdkrmr.github.io/tag/geography/index.xml" rel="self" type="application/rss+xml" />
     <description>Geography</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Guido Kraemer</copyright><lastBuildDate>Mon, 26 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Guido Kraemer</copyright><lastBuildDate>Tue, 26 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gdkrmr.github.io/images/icon_huae7beaf20bd2610b502c5736adc2a695_122292_512x512_fill_lanczos_center_3.png</url>
       <title>Geography</title>
       <link>https://gdkrmr.github.io/tag/geography/</link>
     </image>
+    
+    <item>
+      <title>Einführung in die Programmierung mit R</title>
+      <link>https://gdkrmr.github.io/teaching/r_basic_2021/</link>
+      <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/teaching/r_basic_2021/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Data Science&amp;rdquo; wird immer wichtiger in allen Bereichen in der Forschung und
+Wirtschaft. Besonders in der Geographie ist die Verarbeitung großer Datenmengen
+erforderlich. R ist eines der Standardwerkzeuge in der Geographie zur
+Datenverarbeitung. R wird vorwiegend zur statistischen Analyse und der
+Visualisierung von Daten verwendet, ist aber auch eine Programmiersprache und
+kann durch Pakete erweitert werden und zum Erstellen von Dokumenten verwendet
+werden. Dieser Kurs ist eine Grundlegende Einführung in die Programmierung mit
+R. Wir lernen verschiedenen Aspekte kennen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Programmierung&lt;/li&gt;
+&lt;li&gt;Datenverarbeitung&lt;/li&gt;
+&lt;li&gt;Statistische Auswertung von Daten&lt;/li&gt;
+&lt;li&gt;Visualisierung von Daten&lt;/li&gt;
+&lt;li&gt;Verwenden von Paketen&lt;/li&gt;
+&lt;li&gt;Erstellen von Dokumenten mit R und Markdown&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seminar Multivariate Statistik</title>
+      <link>https://gdkrmr.github.io/teaching/multivariate_statistics_2021/</link>
+      <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/teaching/multivariate_statistics_2021/</guid>
+      <description>&lt;p&gt;In der Geographie liefert die Multivariate Statistik wichtige Methoden zur
+Auswertung von Daten. Es müssen immer komplexere Datensätze mit immer mehr
+Variablen ausgewertet werden, hierfür bietet die Multivariate Statistik
+verschiedene Ansätze.&lt;/p&gt;
+&lt;p&gt;In diesem Seminar werden die Studierenden verschiedene Methoden der
+Multivariaten Statistik kennenlernen. Dazu erarbeiten sie praktische Beispiele
+mit der Programmiersprache R und den World Development Indicators.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;R ist eines der Standardwerkzeuge für die Auswertung von Daten und bietet eine
+Vielzahl von bereits implementierten Methoden.&lt;/li&gt;
+&lt;li&gt;Die World Development Indicators sind eine umfangreichen globalen Datenbank,
+kuriert von der Weltbank, welche eine Vielzahl an sozioökonomischen
+Indikatoren enthalten&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Einführung in die Programmierung mit R</title>
