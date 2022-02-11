@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F. J. Bohn | Guido Kraemer</title>
+    <link>https://gdkrmr.github.io/author/f.-j.-bohn/</link>
+      <atom:link href="https://gdkrmr.github.io/author/f.-j.-bohn/index.xml" rel="self" type="application/rss+xml" />
+    <description>F. J. Bohn</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Guido Kraemer</copyright><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gdkrmr.github.io/images/icon_huae7beaf20bd2610b502c5736adc2a695_122292_512x512_fill_lanczos_center_3.png</url>
+      <title>F. J. Bohn</title>
+      <link>https://gdkrmr.github.io/author/f.-j.-bohn/</link>
+    </image>
+    
+    <item>
+      <title>Evaluating the Potential of DESIS to Infer Plant Taxonomical and Functional Diversities in European Forests</title>
+      <link>https://gdkrmr.github.io/publication/pacheco-labrador-evaluating-2022/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/publication/pacheco-labrador-evaluating-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
