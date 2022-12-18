@@ -2,13 +2,94 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://gdkrmr.github.io/publication-type/2/</loc>
+    <lastmod>2022-12-18T11:17:46+01:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/author/andreas-huth/</loc>
+    <lastmod>2022-12-18T11:17:46+01:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/authors/</loc>
+    <lastmod>2022-12-18T11:17:46+01:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/tag/biodiversity/</loc>
+    <lastmod>2022-12-18T11:17:46+01:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/publication/pacheco-labrador-challenging-2022/</loc>
+    <lastmod>2022-12-18T11:17:46+01:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/author/christian-wirth/</loc>
+    <lastmod>2022-12-18T11:17:46+01:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/author/david-a.-coomes/</loc>
+    <lastmod>2022-12-18T11:17:46+01:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/tag/desis/</loc>
+    <lastmod>2022-12-18T11:17:46+01:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/author/friedrich-j.-bohn/</loc>
+    <lastmod>2022-12-18T11:17:46+01:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/tag/functional-diversity/</loc>
+    <lastmod>2022-12-18T11:17:46+01:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/author/guido-kraemer/</loc>
+    <lastmod>2022-12-18T11:17:46+01:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/</loc>
+    <lastmod>2022-12-18T11:17:46+01:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/author/ionut-barnoaiea/</loc>
+    <lastmod>2022-12-18T11:17:46+01:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/author/javier-pacheco-labrador/</loc>
+    <lastmod>2022-12-18T11:17:46+01:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/author/miguel-mahecha/</loc>
+    <lastmod>2022-12-18T11:17:46+01:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/author/mirco-migliavacca/</loc>
+    <lastmod>2022-12-18T11:17:46+01:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/author/nuno-carvalhais/</loc>
+    <lastmod>2022-12-18T11:17:46+01:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/author/olivier-bouriaud/</loc>
+    <lastmod>2022-12-18T11:17:46+01:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/publication_types/</loc>
+    <lastmod>2022-12-18T11:17:46+01:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/publication/</loc>
+    <lastmod>2022-12-18T11:17:46+01:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/tag/radiative-transfer-model/</loc>
+    <lastmod>2022-12-18T11:17:46+01:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/author/raquel-benavides/</loc>
+    <lastmod>2022-12-18T11:17:46+01:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/tag/sentinel-2/</loc>
+    <lastmod>2022-12-18T11:17:46+01:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/tag/spectral-diversity/</loc>
+    <lastmod>2022-12-18T11:17:46+01:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/tags/</loc>
+    <lastmod>2022-12-18T11:17:46+01:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/author/ulrich-weber/</loc>
+    <lastmod>2022-12-18T11:17:46+01:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/author/uta-heiden/</loc>
+    <lastmod>2022-12-18T11:17:46+01:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/author/xuanlong-ma/</loc>
+    <lastmod>2022-12-18T11:17:46+01:00</lastmod>
+  </url><url>
     <loc>https://gdkrmr.github.io/publication-type/1/</loc>
     <lastmod>2022-02-11T21:29:24+01:00</lastmod>
   </url><url>
     <loc>https://gdkrmr.github.io/author/a.-huth/</loc>
-    <lastmod>2022-02-11T21:29:24+01:00</lastmod>
-  </url><url>
-    <loc>https://gdkrmr.github.io/authors/</loc>
     <lastmod>2022-02-11T21:29:24+01:00</lastmod>
   </url><url>
     <loc>https://gdkrmr.github.io/author/c.-wirth/</loc>
@@ -23,12 +104,6 @@
     <loc>https://gdkrmr.github.io/author/fundiveurope-members/</loc>
     <lastmod>2022-02-11T21:29:24+01:00</lastmod>
   </url><url>
-    <loc>https://gdkrmr.github.io/author/guido-kraemer/</loc>
-    <lastmod>2022-02-11T21:29:24+01:00</lastmod>
-  </url><url>
-    <loc>https://gdkrmr.github.io/</loc>
-    <lastmod>2022-02-11T21:29:24+01:00</lastmod>
-  </url><url>
     <loc>https://gdkrmr.github.io/author/j.-pacheco-labrador/</loc>
     <lastmod>2022-02-11T21:29:24+01:00</lastmod>
   </url><url>
@@ -39,12 +114,6 @@
     <lastmod>2022-02-11T21:29:24+01:00</lastmod>
   </url><url>
     <loc>https://gdkrmr.github.io/author/n.-carvalhais/</loc>
-    <lastmod>2022-02-11T21:29:24+01:00</lastmod>
-  </url><url>
-    <loc>https://gdkrmr.github.io/publication_types/</loc>
-    <lastmod>2022-02-11T21:29:24+01:00</lastmod>
-  </url><url>
-    <loc>https://gdkrmr.github.io/publication/</loc>
     <lastmod>2022-02-11T21:29:24+01:00</lastmod>
   </url><url>
     <loc>https://gdkrmr.github.io/author/u.-heiden/</loc>
@@ -77,14 +146,8 @@
     <loc>https://gdkrmr.github.io/teaching/multivariate_statistics_2021/</loc>
     <lastmod>2021-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gdkrmr.github.io/tags/</loc>
-    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://gdkrmr.github.io/tag/uni-leipzig/</loc>
     <lastmod>2021-10-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gdkrmr.github.io/publication-type/2/</loc>
-    <lastmod>2021-10-02T19:10:36+02:00</lastmod>
   </url><url>
     <loc>https://gdkrmr.github.io/author/alessandro-cescatti/</loc>
     <lastmod>2021-10-02T19:10:36+02:00</lastmod>
@@ -227,13 +290,7 @@
     <loc>https://gdkrmr.github.io/author/miguel-d.-mahecha/</loc>
     <lastmod>2021-10-02T19:10:36+02:00</lastmod>
   </url><url>
-    <loc>https://gdkrmr.github.io/author/mirco-migliavacca/</loc>
-    <lastmod>2021-10-02T19:10:36+02:00</lastmod>
-  </url><url>
     <loc>https://gdkrmr.github.io/author/nina-buchmann/</loc>
-    <lastmod>2021-10-02T19:10:36+02:00</lastmod>
-  </url><url>
-    <loc>https://gdkrmr.github.io/author/nuno-carvalhais/</loc>
     <lastmod>2021-10-02T19:10:36+02:00</lastmod>
   </url><url>
     <loc>https://gdkrmr.github.io/author/oscar-perez-priego/</loc>
@@ -279,12 +336,6 @@
     <lastmod>2021-10-02T19:10:36+02:00</lastmod>
   </url><url>
     <loc>https://gdkrmr.github.io/author/ulisse-gomarasca/</loc>
-    <lastmod>2021-10-02T19:10:36+02:00</lastmod>
-  </url><url>
-    <loc>https://gdkrmr.github.io/author/ulrich-weber/</loc>
-    <lastmod>2021-10-02T19:10:36+02:00</lastmod>
-  </url><url>
-    <loc>https://gdkrmr.github.io/author/xuanlong-ma/</loc>
     <lastmod>2021-10-02T19:10:36+02:00</lastmod>
   </url><url>
     <loc>https://gdkrmr.github.io/tag/automated-species-identification/</loc>
@@ -380,6 +431,9 @@
     <loc>https://gdkrmr.github.io/tag/sparse-regression/</loc>
     <lastmod>2021-08-03T13:19:50+02:00</lastmod>
   </url><url>
+    <loc>https://gdkrmr.github.io/author/a-moreno-martinez/</loc>
+    <lastmod>2021-08-03T13:19:50+02:00</lastmod>
+  </url><url>
     <loc>https://gdkrmr.github.io/author/a.-perez-suay/</loc>
     <lastmod>2021-08-03T13:19:50+02:00</lastmod>
   </url><url>
@@ -399,9 +453,6 @@
     <lastmod>2021-08-03T13:19:50+02:00</lastmod>
   </url><url>
     <loc>https://gdkrmr.github.io/author/m.-reichstein/</loc>
-    <lastmod>2021-08-03T13:19:50+02:00</lastmod>
-  </url><url>
-    <loc>https://gdkrmr.github.io/author/a-moreno-martinez/</loc>
     <lastmod>2021-08-03T13:19:50+02:00</lastmod>
   </url><url>
     <loc>https://gdkrmr.github.io/tag/dimensionality-reduction/</loc>
@@ -551,6 +602,9 @@
     <loc>https://gdkrmr.github.io/publication/kraemer-dimred-2018/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://gdkrmr.github.io/author/alvaro-duque/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://gdkrmr.github.io/author/ana-m.-benavides/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -612,9 +666,6 @@
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gdkrmr.github.io/tag/state-transitions/</loc>
-    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gdkrmr.github.io/author/alvaro-duque/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gdkrmr.github.io/teaching/naka_2016/</loc>
