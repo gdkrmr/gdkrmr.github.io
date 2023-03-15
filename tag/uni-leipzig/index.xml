@@ -5,12 +5,128 @@
     <link>https://gdkrmr.github.io/tag/uni-leipzig/</link>
       <atom:link href="https://gdkrmr.github.io/tag/uni-leipzig/index.xml" rel="self" type="application/rss+xml" />
     <description>Uni Leipzig</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Guido Kraemer</copyright><lastBuildDate>Tue, 26 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Guido Kraemer</copyright><lastBuildDate>Tue, 14 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gdkrmr.github.io/images/icon_huae7beaf20bd2610b502c5736adc2a695_122292_512x512_fill_lanczos_center_3.png</url>
       <title>Uni Leipzig</title>
       <link>https://gdkrmr.github.io/tag/uni-leipzig/</link>
     </image>
+    
+    <item>
+      <title>Geoinformationssysteme - Modelle und Analysen</title>
+      <link>https://gdkrmr.github.io/teaching/geodata_analysis_2023/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/teaching/geodata_analysis_2023/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Introduction to R&lt;/li&gt;
+&lt;li&gt;Principles of data visualization&lt;/li&gt;
+&lt;li&gt;Intro to R basic plotting&lt;/li&gt;
+&lt;li&gt;Intro to &lt;code&gt;ggplot&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Global socieconomic data – from tables to maps.&lt;/li&gt;
+&lt;li&gt;Global trends in socioeconomic variables (WDI, HDI)&lt;/li&gt;
+&lt;li&gt;Networks and Graphs&lt;/li&gt;
+&lt;li&gt;Vector data&lt;/li&gt;
+&lt;li&gt;Raster data
+&lt;ul&gt;
+&lt;li&gt;Spatial autocorrelation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Spatiotemporal data cubes
+&lt;ul&gt;
+&lt;li&gt;Timeseries&lt;/li&gt;
+&lt;li&gt;Spatiotemporal dynamics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spatio-temporal Data</title>
+      <link>https://gdkrmr.github.io/teaching/spatio_temporal_data_2023/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/teaching/spatio_temporal_data_2023/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Introduction to R&lt;/li&gt;
+&lt;li&gt;Principles of data visualization&lt;/li&gt;
+&lt;li&gt;Intro to R basic plotting&lt;/li&gt;
+&lt;li&gt;Intro to &lt;code&gt;ggplot&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Global socieconomic data – from tables to maps.&lt;/li&gt;
+&lt;li&gt;Global trends in socioeconomic variables (WDI, HDI)&lt;/li&gt;
+&lt;li&gt;Networks and Graphs&lt;/li&gt;
+&lt;li&gt;Vector data&lt;/li&gt;
+&lt;li&gt;Raster data
+&lt;ul&gt;
+&lt;li&gt;Spatial autocorrelation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Spatiotemporal data cubes
+&lt;ul&gt;
+&lt;li&gt;Timeseries&lt;/li&gt;
+&lt;li&gt;Spatiotemporal dynamics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research Data Management</title>
+      <link>https://gdkrmr.github.io/teaching/research_data_management_2022/</link>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/teaching/research_data_management_2022/</guid>
+      <description>&lt;p&gt;Managing research data is an essential skill. Especially in geosciences we have
+to work with large geodata and proper management becomes an essential skill to
+properly document workflows and make the reproducible. In this course students
+learn to sustainably curate research data, to apply the FAIR principles and
+apply ethical principles to their research. We also learn to use many practical
+tools that are state of the art in modern software development and general
+computer literacy.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Learn to manage research data&lt;/li&gt;
+&lt;li&gt;Reproducible research&lt;/li&gt;
+&lt;li&gt;Tools
+&lt;ul&gt;
+&lt;li&gt;Linux CLI&lt;/li&gt;
+&lt;li&gt;version control&lt;/li&gt;
+&lt;li&gt;container&lt;/li&gt;
+&lt;li&gt;HPC cluster&lt;/li&gt;
+&lt;li&gt;CI/CD pipelines&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;computer literacy&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Geodata Analysis in Human Geography</title>
+      <link>https://gdkrmr.github.io/teaching/geodata_analysis_2022/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/teaching/geodata_analysis_2022/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Introduction to R&lt;/li&gt;
+&lt;li&gt;Principles of data visualization&lt;/li&gt;
+&lt;li&gt;Intro to R basic plotting&lt;/li&gt;
+&lt;li&gt;Intro to &lt;code&gt;ggplot&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Global socieconomic data – from tables to maps.&lt;/li&gt;
+&lt;li&gt;Global trends in socioeconomic variables (WDI, HDI)&lt;/li&gt;
+&lt;li&gt;Networks and Graphs&lt;/li&gt;
+&lt;li&gt;Vector data&lt;/li&gt;
+&lt;li&gt;Raster data
+&lt;ul&gt;
+&lt;li&gt;Spatial autocorrelation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Spatiotemporal data cubes
+&lt;ul&gt;
+&lt;li&gt;Timeseries&lt;/li&gt;
+&lt;li&gt;Spatiotemporal dynamics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Einführung in die Programmierung mit R</title>
@@ -54,6 +170,35 @@ Vielzahl von bereits implementierten Methoden.&lt;/li&gt;
 &lt;li&gt;Die World Development Indicators sind eine umfangreichen globalen Datenbank,
 kuriert von der Weltbank, welche eine Vielzahl an sozioökonomischen
 Indikatoren enthalten&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Geodata Analysis in Human Geography</title>
+      <link>https://gdkrmr.github.io/teaching/geodata_analysis_2021/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/teaching/geodata_analysis_2021/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Introduction to R&lt;/li&gt;
+&lt;li&gt;Principles of data visualization&lt;/li&gt;
+&lt;li&gt;Intro to R basic plotting&lt;/li&gt;
+&lt;li&gt;Intro to &lt;code&gt;ggplot&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Global socieconomic data – from tables to maps.&lt;/li&gt;
+&lt;li&gt;Global trends in socioeconomic variables (WDI, HDI)&lt;/li&gt;
+&lt;li&gt;Networks and Graphs&lt;/li&gt;
+&lt;li&gt;Vector data&lt;/li&gt;
+&lt;li&gt;Raster data
+&lt;ul&gt;
+&lt;li&gt;Spatial autocorrelation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Spatiotemporal data cubes
+&lt;ul&gt;
+&lt;li&gt;Timeseries&lt;/li&gt;
+&lt;li&gt;Spatiotemporal dynamics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

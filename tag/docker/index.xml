@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docker | Guido Kraemer</title>
+    <link>https://gdkrmr.github.io/tag/docker/</link>
+      <atom:link href="https://gdkrmr.github.io/tag/docker/index.xml" rel="self" type="application/rss+xml" />
+    <description>Docker</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Guido Kraemer</copyright><lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gdkrmr.github.io/images/icon_huae7beaf20bd2610b502c5736adc2a695_122292_512x512_fill_lanczos_center_3.png</url>
+      <title>Docker</title>
+      <link>https://gdkrmr.github.io/tag/docker/</link>
+    </image>
+    
+    <item>
+      <title>Research Data Management</title>
+      <link>https://gdkrmr.github.io/teaching/research_data_management_2022/</link>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/teaching/research_data_management_2022/</guid>
+      <description>&lt;p&gt;Managing research data is an essential skill. Especially in geosciences we have
+to work with large geodata and proper management becomes an essential skill to
+properly document workflows and make the reproducible. In this course students
+learn to sustainably curate research data, to apply the FAIR principles and
+apply ethical principles to their research. We also learn to use many practical
+tools that are state of the art in modern software development and general
+computer literacy.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Learn to manage research data&lt;/li&gt;
+&lt;li&gt;Reproducible research&lt;/li&gt;
+&lt;li&gt;Tools
+&lt;ul&gt;
+&lt;li&gt;Linux CLI&lt;/li&gt;
+&lt;li&gt;version control&lt;/li&gt;
+&lt;li&gt;container&lt;/li&gt;
+&lt;li&gt;HPC cluster&lt;/li&gt;
+&lt;li&gt;CI/CD pipelines&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;computer literacy&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
