@@ -5,12 +5,21 @@
     <link>https://gdkrmr.github.io/author/lina-m.-estupinan-suarez/</link>
       <atom:link href="https://gdkrmr.github.io/author/lina-m.-estupinan-suarez/index.xml" rel="self" type="application/rss+xml" />
     <description>Lina M. Estupinan-Suarez</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Guido Kraemer</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Guido Kraemer</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gdkrmr.github.io/images/icon_huae7beaf20bd2610b502c5736adc2a695_122292_512x512_fill_lanczos_center_3.png</url>
       <title>Lina M. Estupinan-Suarez</title>
       <link>https://gdkrmr.github.io/author/lina-m.-estupinan-suarez/</link>
     </image>
+    
+    <item>
+      <title>Spatial Patterns of Vegetation Activity Related to ENSO in  Northern South America</title>
+      <link>https://gdkrmr.github.io/publication/estupinan-suarez-spatial-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/publication/estupinan-suarez-spatial-2024/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Capturing the Influence of ENSO on Land Surface Variables for Tropical South America</title>

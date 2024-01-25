@@ -2,13 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gdkrmr.github.io/tag/machine-learning/</loc>
-    <lastmod>2023-06-09T12:52:30+02:00</lastmod>
-  </url><url>
     <loc>https://gdkrmr.github.io/publication-type/2/</loc>
-    <lastmod>2023-06-09T12:52:30+02:00</lastmod>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/author/alexander-brenning/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gdkrmr.github.io/authors/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/tag/biodiversity-hotspots/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/author/carlos-a.-sierra/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/tag/dimensionality-reduction-analysis/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/tag/enso/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/author/german-poveda/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/author/guido-kraemer/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/tag/lagged-effects/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/author/lina-m.-estupinan-suarez/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/author/markus-reichstein/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/author/miguel-d.-mahecha/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/tag/northern-south-america/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/publication_types/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/publication/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/publication/estupinan-suarez-spatial-2024/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/tags/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/tag/tropical-ecosystems/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/tag/vegetation-activity/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gdkrmr.github.io/tag/machine-learning/</loc>
     <lastmod>2023-06-09T12:52:30+02:00</lastmod>
   </url><url>
     <loc>https://gdkrmr.github.io/tag/bayesian-hierarchical-model/</loc>
@@ -18,12 +75,6 @@
     <lastmod>2023-06-09T12:52:30+02:00</lastmod>
   </url><url>
     <loc>https://gdkrmr.github.io/tag/gap-filling/</loc>
-    <lastmod>2023-06-09T12:52:30+02:00</lastmod>
-  </url><url>
-    <loc>https://gdkrmr.github.io/author/guido-kraemer/</loc>
-    <lastmod>2023-06-09T12:52:30+02:00</lastmod>
-  </url><url>
-    <loc>https://gdkrmr.github.io/</loc>
     <lastmod>2023-06-09T12:52:30+02:00</lastmod>
   </url><url>
     <loc>https://gdkrmr.github.io/tag/imputation/</loc>
@@ -50,28 +101,16 @@
     <loc>https://gdkrmr.github.io/author/michael-e.-schaepman/</loc>
     <lastmod>2023-06-09T12:52:30+02:00</lastmod>
   </url><url>
-    <loc>https://gdkrmr.github.io/author/miguel-d.-mahecha/</loc>
-    <lastmod>2023-06-09T12:52:30+02:00</lastmod>
-  </url><url>
     <loc>https://gdkrmr.github.io/author/nadja-ruger/</loc>
     <lastmod>2023-06-09T12:52:30+02:00</lastmod>
   </url><url>
     <loc>https://gdkrmr.github.io/tag/plant-functional-trait/</loc>
     <lastmod>2023-06-09T12:52:30+02:00</lastmod>
   </url><url>
-    <loc>https://gdkrmr.github.io/publication_types/</loc>
-    <lastmod>2023-06-09T12:52:30+02:00</lastmod>
-  </url><url>
-    <loc>https://gdkrmr.github.io/publication/</loc>
-    <lastmod>2023-06-09T12:52:30+02:00</lastmod>
-  </url><url>
     <loc>https://gdkrmr.github.io/tag/sensitivity-analysis/</loc>
     <lastmod>2023-06-09T12:52:30+02:00</lastmod>
   </url><url>
     <loc>https://gdkrmr.github.io/tag/sparse-matrix/</loc>
-    <lastmod>2023-06-09T12:52:30+02:00</lastmod>
-  </url><url>
-    <loc>https://gdkrmr.github.io/tags/</loc>
     <lastmod>2023-06-09T12:52:30+02:00</lastmod>
   </url><url>
     <loc>https://gdkrmr.github.io/tag/try/</loc>
@@ -338,9 +377,6 @@
     <loc>https://gdkrmr.github.io/author/marcos-fernandez-martinez/</loc>
     <lastmod>2021-10-02T19:10:36+02:00</lastmod>
   </url><url>
-    <loc>https://gdkrmr.github.io/author/markus-reichstein/</loc>
-    <lastmod>2021-10-02T19:10:36+02:00</lastmod>
-  </url><url>
     <loc>https://gdkrmr.github.io/author/marta-galvagno/</loc>
     <lastmod>2021-10-02T19:10:36+02:00</lastmod>
   </url><url>
@@ -578,9 +614,6 @@
     <loc>https://gdkrmr.github.io/author/adrian-perez-suay/</loc>
     <lastmod>2021-08-03T13:19:51+02:00</lastmod>
   </url><url>
-    <loc>https://gdkrmr.github.io/author/alexander-brenning/</loc>
-    <lastmod>2021-08-03T13:19:51+02:00</lastmod>
-  </url><url>
     <loc>https://gdkrmr.github.io/author/alvaro-moreno-martinez/</loc>
     <lastmod>2021-08-03T13:19:51+02:00</lastmod>
   </url><url>
@@ -590,9 +623,6 @@
     <loc>https://gdkrmr.github.io/publication/estupinan-suarez-capturing-2020/</loc>
     <lastmod>2021-08-03T13:19:51+02:00</lastmod>
   </url><url>
-    <loc>https://gdkrmr.github.io/author/carlos-a.-sierra/</loc>
-    <lastmod>2021-08-03T13:19:51+02:00</lastmod>
-  </url><url>
     <loc>https://gdkrmr.github.io/author/fabian-gans/</loc>
     <lastmod>2021-08-03T13:19:51+02:00</lastmod>
   </url><url>
@@ -600,9 +630,6 @@
     <lastmod>2021-08-03T13:19:51+02:00</lastmod>
   </url><url>
     <loc>https://gdkrmr.github.io/publication/adsuara-learning-2020/</loc>
-    <lastmod>2021-08-03T13:19:51+02:00</lastmod>
-  </url><url>
-    <loc>https://gdkrmr.github.io/author/lina-m.-estupinan-suarez/</loc>
     <lastmod>2021-08-03T13:19:51+02:00</lastmod>
   </url><url>
     <loc>https://gdkrmr.github.io/author/maria-piles/</loc>
@@ -708,9 +735,6 @@
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gdkrmr.github.io/author/esteban-alvarez-davila/</loc>
-    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gdkrmr.github.io/author/german-poveda/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gdkrmr.github.io/author/hannes-feilhauer/</loc>
