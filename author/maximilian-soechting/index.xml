@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maximilian Soechting | Guido Kraemer</title>
+    <link>https://gdkrmr.github.io/author/maximilian-soechting/</link>
+      <atom:link href="https://gdkrmr.github.io/author/maximilian-soechting/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maximilian Soechting</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Guido Kraemer</copyright><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gdkrmr.github.io/images/icon_huae7beaf20bd2610b502c5736adc2a695_122292_512x512_fill_lanczos_center_3.png</url>
+      <title>Maximilian Soechting</title>
+      <link>https://gdkrmr.github.io/author/maximilian-soechting/</link>
+    </image>
+    
+    <item>
+      <title>DeepExtremeCubes: Integrating Earth System Spatio-Temporal Data for Impact Assessment of Climate Extremes</title>
+      <link>https://gdkrmr.github.io/publication/ji-deepextremecubes-2024/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/publication/ji-deepextremecubes-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

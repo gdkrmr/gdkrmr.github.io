@@ -5,12 +5,60 @@
     <link>https://gdkrmr.github.io/</link>
       <atom:link href="https://gdkrmr.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Guido Kraemer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Guido Kraemer</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Guido Kraemer</copyright><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gdkrmr.github.io/images/icon_huae7beaf20bd2610b502c5736adc2a695_122292_512x512_fill_lanczos_center_3.png</url>
       <title>Guido Kraemer</title>
       <link>https://gdkrmr.github.io/</link>
     </image>
+    
+    <item>
+      <title>Cautionary Remarks on the Planetary Boundary Visualisation</title>
+      <link>https://gdkrmr.github.io/publication/mahecha-cautionary-2024/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/publication/mahecha-cautionary-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Earth System Data Cubes: Avenues for Advancing Earth System Research</title>
+      <link>https://gdkrmr.github.io/publication/montero-earth-2024/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/publication/montero-earth-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unpredicted Ecosystem Response to Compound Human Impacts in a European River</title>
+      <link>https://gdkrmr.github.io/publication/kohler-unpredicted-2024/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/publication/kohler-unpredicted-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepExtremeCubes: Integrating Earth System Spatio-Temporal Data for Impact Assessment of Climate Extremes</title>
+      <link>https://gdkrmr.github.io/publication/ji-deepextremecubes-2024/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/publication/ji-deepextremecubes-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On-Demand Earth System Data Cubes</title>
+      <link>https://gdkrmr.github.io/publication/montero-demand-2024/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/publication/montero-demand-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Macrophenological Dynamics from Citizen Science Plant Occurrence Data</title>
+      <link>https://gdkrmr.github.io/publication/mora-macrophenological-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://gdkrmr.github.io/publication/mora-macrophenological-2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Spatial Patterns of Vegetation Activity Related to ENSO in  Northern South America</title>
